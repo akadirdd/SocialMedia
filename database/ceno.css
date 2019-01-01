@@ -1,0 +1,59 @@
+.arkap{
+
+  height:900px;
+	width:100%;
+	background-image:url(arkap.jpg);
+	background-position:center;
+
+}
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.orta{
+
+  height:900px;
+  margin-left:15%;
+  margin-right:12%;
+	width:1000px;
+  background-color: #EEE;
+}
+.baslık{
+  background-image:url(foto.jpg);
+	background-position:center;
+	height:250px;
+	width:100%;
+}
+.giris{
+  background-color: #DDD;
+  height:650px;
+  width: 100%;
+}
+.footer{
+  height: 50px;
+  width: 100%;
+  background-color: #AAA;
+}
+h3{
+  float: left;
+  margin:15px 380px;
+  padding: 0px;
+  color: red;
+}
+p{
+  float: left;
+  margin: 20px 410px;
+  padding: 0px;
+}
+table{
+  float: left;
+  margin: 0px 370px;
+  background-color: #CCC;
+  width: 300px;
+}
+.kayıtlink{
+
+  color: red;
+  margin: 100px 380px;
+  padding: 0px;
+}
